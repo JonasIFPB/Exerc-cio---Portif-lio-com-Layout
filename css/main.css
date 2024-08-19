@@ -144,7 +144,7 @@ footer section.social a:hover {
 footer section.copyright {
   display: grid;
   grid-column: 1 / 4;
-  height: 50px;
+  padding: 15px;
   color: #555;
   text-align: center;
   place-content: center;
