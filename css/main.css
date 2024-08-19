@@ -145,6 +145,7 @@ footer section.copyright {
   grid-column: 1 / 4;
   height: 50px;
   color: #555;
+  padding: 15px;
   text-align: center;
   place-content: center;
   background-color: #c7c7af;
@@ -155,9 +156,6 @@ footer section.social ul {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   list-style: none;
   grid-gap: 30px;
-}
-footer section.copyright {
-  padding: 15px;
 }
 
 
