@@ -156,6 +156,9 @@ footer section.social ul {
   list-style: none;
   grid-gap: 30px;
 }
+footer section.copyright {
+  padding: 15px;
+}
 
 
 footer section.copyright i.fa-heart {
