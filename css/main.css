@@ -142,10 +142,10 @@ footer section.social a:hover {
 }
 
 footer section.copyright {
+  display: grid;
   grid-column: 1 / 4;
   height: 50px;
   color: #555;
-  padding: 15px;
   text-align: center;
   place-content: center;
   background-color: #c7c7af;
